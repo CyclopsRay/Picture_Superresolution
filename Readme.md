@@ -4,6 +4,10 @@ This project is constructed by CMake.
 
 CMake is recommanded to construct your project.
 
+To run the code, you need to use your own model file, and transfer it into binary form.
+
+To run the code, you need to download the tensorflow sdk and move it under the /include directory.
+
 ##### Tools required for SDK if you want to use shared object:
 
 ```shell
