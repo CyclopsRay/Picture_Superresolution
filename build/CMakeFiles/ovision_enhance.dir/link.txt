@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libovision_enhance.a CMakeFiles/ovision_enhance.dir/src/pic_enhance.cpp.o
+/usr/bin/ranlib ../lib/libovision_enhance.a

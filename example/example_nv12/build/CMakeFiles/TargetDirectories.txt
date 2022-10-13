@@ -1,0 +1,3 @@
+/mnt/f/FinalProject/code/SDK/example/example_nv12/build/CMakeFiles/edit_cache.dir
+/mnt/f/FinalProject/code/SDK/example/example_nv12/build/CMakeFiles/rebuild_cache.dir
+/mnt/f/FinalProject/code/SDK/example/example_nv12/build/CMakeFiles/ovision_enhance_exp1.dir

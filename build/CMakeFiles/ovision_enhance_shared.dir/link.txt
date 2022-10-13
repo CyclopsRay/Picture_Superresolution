@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3  -shared -Wl,-soname,libovision_enhance_shared.so -o ../lib/libovision_enhance_shared.so CMakeFiles/ovision_enhance_shared.dir/src/pic_enhance.cpp.o   -L/mnt/f/FinalProject/code/SDK/lib  -Wl,-rpath,/mnt/f/FinalProject/code/SDK/lib -Wl,--whole-archive -Wl,-Bstatic -ltensorflow-lite -Wl,-Bdynamic -Wl,--no-whole-archive -ldl -lpthread 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../include/pic_enhance.h
+
+/mnt/f/FinalProject/code/SDK/example/example_nv12/project_main.cpp
+pic_enhance.h
+/mnt/f/FinalProject/code/SDK/example/example_nv12/pic_enhance.h
+iostream
+-
+

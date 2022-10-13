@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.1)
+project(ovision_enhance_exp1)
+set(CMAKE_CXX_STANDARD 11)
+include_directories(${PROJECT_SOURCE_DIR}/../../include)
+link_directories(${PROJECT_SOURCE_DIR}/../../lib)
+add_executable(ovision_enhance_exp1 project_main.cpp pic_enhance.h)
+target_link_libraries(ovision_enhance_exp1 libovision_enhance.so)
